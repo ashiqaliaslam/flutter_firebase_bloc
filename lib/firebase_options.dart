@@ -69,8 +69,10 @@ class DefaultFirebaseOptions {
     messagingSenderId: '484406782701',
     projectId: 'login-playground-app',
     storageBucket: 'login-playground-app.appspot.com',
-    androidClientId: '484406782701-mngdn9n6u7i62j8j18cdkhbub5c7urbl.apps.googleusercontent.com',
-    iosClientId: '484406782701-kadtsjqeo6mr91jgpkub3812bv1d2p8o.apps.googleusercontent.com',
+    androidClientId:
+        '484406782701-mngdn9n6u7i62j8j18cdkhbub5c7urbl.apps.googleusercontent.com',
+    iosClientId:
+        '484406782701-kadtsjqeo6mr91jgpkub3812bv1d2p8o.apps.googleusercontent.com',
     iosBundleId: 'com.example.flutterLogin',
   );
 }
