@@ -8,6 +8,11 @@ environment:
   # flutter: ">=1.17.0"
 
 dependencies:
+  cache:
+    path: ../cache
+  equatable: ^2.0.5
+  firebase_auth: ^4.17.9
+  google_sign_in: ^6.2.1
   # flutter:
   #   sdk: flutter
 
